@@ -108,7 +108,7 @@ saveas(gcf,"plottingTheInterpolation.png")
 
 %% Task 3
 %Order of group Z_p^*
-p = 11;
+p = 19;
 
 %Generators of the group
 [temp, temp2] = findGenerators(p);
